@@ -7,7 +7,8 @@ Generate signed, expirable image URLs for transformations such as rotate, resize
 ## 🚀 Installation
 
 ```bash
-pip install pichax
+# pip install pichax
+pip install git+https://github.com/Chakata-Technologies/pichax_python_sdk.git
 ```
 
 ## Example
