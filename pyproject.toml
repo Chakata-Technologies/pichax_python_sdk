@@ -1,0 +1,11 @@
+[project]
+name = "pichax"
+version = "0.0.5-beta"
+description = "Generate signed URLs for on-the-fly image transformations"
+authors = [{ name = "Kevin Nderitu", email = "kevin.nderitu@chakata.co" }]
+dependencies = []
+requires-python = ">=3.7"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
